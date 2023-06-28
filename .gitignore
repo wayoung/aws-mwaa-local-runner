@@ -5,3 +5,8 @@ dags/**/*.pyc
 /logs
 /db-data
 .DS_Store
+plugins
+.metals
+.vscode
+requirements/packaged_requirements.txt
+requirements/plugins.zip
